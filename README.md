@@ -57,3 +57,5 @@ The full changelog is available here: [changelog](CHANGELOG.md).
 ## License
 
 [MIT - https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+Sass grammar definitions (Sass.json only) https://github.com/atom/language-sass
